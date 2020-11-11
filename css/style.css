@@ -19,7 +19,8 @@ body {
 }
 
 /* Write all remaining styles here */
-#neck{display: block; border: 4px; border-style: solid; border-color: rgb(161, 173, 169); margin: 0 auto; box-shadow: 5px,0, 0,0; box-shadow-color:}
+#neck{display: block; border: 4px; border-style: solid; border-color: rgb(161, 173, 169); margin: 0 auto;}
 h1{display: block; font-size: 100px; color: rgb(161, 173, 169);}
 
-h2{font-size: 40px;}
+h2{font-size: 40px; color: rgb(161, 173, 169);}
+.logo{display:inline-block; margin-left: 2px; border:2px; border-color:rgb(161, 173, 169);}
