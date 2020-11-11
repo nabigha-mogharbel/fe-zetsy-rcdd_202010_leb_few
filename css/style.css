@@ -11,10 +11,17 @@ body {
 }
 
 .wrapper {
+  display: block;
 	width: 960px;
 	margin: 0 auto;
 	background: #fff;
-	padding: 0 45px 20px;
+	padding: 0 40px 20px;
 }
 
 /* Write all remaining styles here */
+#neck{display: block; border: 4px; border-style: solid; border-color: rgb(161, 173, 169); margin: 0 auto;}
+h1{display: block; font-size: 100px; color: rgb(161, 173, 169);}
+
+h2{font-size: 40px; color: rgb(161, 173, 169);}
+.logo{display:inline-block; margin-left: 2px; border:2px; border-color:rgb(161, 173, 169); border-style:solid;}
+footer{display:flex; justify-content: flex-end;}
