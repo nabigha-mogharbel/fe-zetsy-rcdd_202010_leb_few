@@ -19,7 +19,7 @@ body {
 }
 
 /* Write all remaining styles here */
-#neck{display: block; border: 4px; border-style: solid; border-color: blue; margin: 0 auto;}
+#neck{display: block; border: 4px; border-style: solid; border-color: rgb(161, 173, 169); margin: 0 auto;}
 h1{display: block; font-size: 100px; color: rgb(161, 173, 169);}
 
 h2{font-size: 40px;}
